@@ -1,0 +1,15 @@
+# INTRODUCTION
+--------------
+
+* Azure for Developers
+----------------------
+	- Cloud Services:
+		. Scaling on demand. To accomodate users around the world.
+		. Having a reliable and affordable way to keep our applications online.
+		. Conforming to various compliance and data privacy standards.
+		. Having the flexibility to pick and choose what you need to support your systems.
+
+===================================================================================================================================================================
+
+
+		
