@@ -1,0 +1,84 @@
+# 1. Cloud Fundamentals
+-----------------------
+
+* Cloud Models and Service Types
+--------------------------------
+	- Public Cloud: All the resources are owned, operated, and managed by a third party cloud service provider.
+
+		. Cheapest.
+	
+	- Private Cloud: Extra security, compliance heavy requirements.
+	
+		. Used by Financial Institutions, Govern Agencies, and other organizations that need greater control over the resources and environment.
+
+		. The privacy can be accomplished in two ways:
+			. Dedicated data center.
+			. Dedicated Network.
+
+	- Hybrid Cloud: A combinations of the previous both.
+		. Data and applications can move back and forth across the different clouds as needed.
+
+	- There are three main services offered by the main providers:
+
+		. Full-Featured Services
+			* Azure Batch
+			* Azure AI
+
+		. SaaS
+			* Web versions of applications.
+			
+		. PaaS
+			* Similar to Hosting and operating systems in the cloud.
+			* Operating Systems that are hosted and managed for you, on top of which you can develop apps and services.
+
+		. Azure offers tools and services that support the full development lifecycle.
+
+			* Azure App Services
+			* Azure Search
+
+		. IaaS
+			* Firewalls, servers, storage.
+
+	- In conclusion you consume Saas, built on Paas, and hosted in Iaas.
+
+==================================================================================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
