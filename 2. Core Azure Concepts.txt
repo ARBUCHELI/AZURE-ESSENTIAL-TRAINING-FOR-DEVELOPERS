@@ -1,0 +1,61 @@
+# 2. Core Azure Concepts
+------------------------
+
+* What is an Azure Subscription?
+--------------------------------
+	A container for Azure services.
+
+	andresrbucheli@outlook.com --> Anny@281979
+
+	With an Azure subscrition you can create and host cloud native applications or migrate your on premise instance of SQL database to an Azure SQL database, and let Azure handle
+	complex scaling and updating for you.
+
+	If you do a lot of graphics rendering or you need to calculate thousands of datapoints per second, you can offload this work to Azure high performance computing, which is built
+	for computation heavy processes.
+
+	EVENT-DRIVEN ARCHITECTURE
+	-------------------------
+	Serverless Compute Platform.
+
+	AZURE DEVOPS
+	------------
+	Quickly and reliably deliver features and fixes, using automatic CI/CD pipelines.
+
+	AZURE AI - AZURE MACHINE LEARNING
+	---------------------------------
+	You can add Azure AI, Azure Machine Learning to your applications.
+
+	By using these services you can get things like natural interactions like those in a helpdesk chat assistant or smart predictions through product suggestions based on past
+	purchases.
+
+	
+===================================================================================================================================================================
+
+* What is an Azure Resource Group?
+----------------------------------
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
